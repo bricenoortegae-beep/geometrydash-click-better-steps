@@ -1,4 +1,4 @@
-{mod.json
+{
   "geode": "5.9.0",
   "gd": { "win": "2.2081", "android": "2.2081" },
   "version": "v1.0.0",
